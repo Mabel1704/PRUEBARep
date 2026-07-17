@@ -7,5 +7,7 @@ public class Class1
 
 		hcjhdgjhf
 
+
+			adios
 	}
 }
